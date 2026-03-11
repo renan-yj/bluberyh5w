@@ -1,6 +1,6 @@
 <h1><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>  Hi, Recruiters and Developers!</h1>
 
-I'm Renan Yuji, a Full-stack Developer and Future Data Scientist, passionate about new technologies and AI.
+I'm Renan Yuji, Future Data Scientist, passionate about new technologies and AI.
 
 <h2>About me</h2>
 
