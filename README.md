@@ -25,7 +25,7 @@ I'm Renan Yuji, Future Data Scientist, passionate about new technologies and AI.
 </p>
 
 <div>
-  <a href="https://github.com/bluberyh5w">
-  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=blbueryh5w&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bluberyh5w&layout=compact&langs_count=16&theme=dark"/>
+  <a href="https://github.com/renan-yj">
+  <!---<img height="180em" src="https://github-readme-stats.vercel.app/api?username=renan-yj&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> --->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renan-yj&layout=compact&langs_count=16&theme=dark"/>
 </div>
